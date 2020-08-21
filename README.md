@@ -1,2 +1,4 @@
 # Sujian-hair-salon-technical-support
 Sujian hair salon technical support
+
+“Sujian hair salon”  The application aims to provide a reliable and fast online appointment way for barber, perm and dye, modeling, scalp care and other activities, simplify the appointment process, shorten the appointment time, and complete the appointment operation without leaving home, avoiding the embarrassment of queuing up at the hair salon. There are a large number of professional information about major hair salons and chief hairdressers in the application. After users register and log in, they can see the basic information of these hair salons as well as the information of major hairdressers and apply for appointment. At the same time, the app also pushes articles related to haircut, perm and dyeing, aiming to provide users with a more diversified experience.
